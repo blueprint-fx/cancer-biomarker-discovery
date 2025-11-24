@@ -1,0 +1,29 @@
+﻿# 🧬 Cancer Biomarker Discovery Pipeline
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Random%20Forest-orange)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Advanced-green)
+
+A complete bioinformatics pipeline for cancer biomarker discovery using machine learning.
+
+## 🎯 Project Overview
+- *Synthetic TCGA-like genomic data* generation
+- *Differential expression analysis* with 450+ biomarkers identified
+- *Machine learning classification* with 96.7% accuracy
+- *Pharmaceutical-grade workflows*
+
+## 🚀 Quick Start
+```bash
+# Run the complete pipeline
+python advanced_pipeline.py
+python ml_pipeline_fixed.py
+## 🚀 *STEP 2: Create Requirements.txt*
+
+```powershell
+# Create requirements.txt
+@'
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0

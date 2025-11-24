@@ -1,0 +1,6 @@
+{
+  "model": "RandomForest",
+  "accuracy": 0.7666666666666667,
+  "samples": 100,
+  "features": 20
+}

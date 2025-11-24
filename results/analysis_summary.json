@@ -1,0 +1,90 @@
+{
+  "pipeline_info": {
+    "name": "Advanced Cancer Biomarker Discovery",
+    "version": "2.0",
+    "date": "2025-11-24T17:33:42.380391"
+  },
+  "dataset_stats": {
+    "total_samples": 100,
+    "tumor_samples": 60,
+    "normal_samples": 40,
+    "total_genes": 500
+  },
+  "analysis_results": {
+    "significant_biomarkers": 450,
+    "top_biomarker": "Gene_0013",
+    "max_fold_change": 12.175
+  },
+  "top_biomarkers": [
+    {
+      "gene": "Gene_0013",
+      "fold_change": 12.175,
+      "tumor_mean": 21.44,
+      "normal_mean": 9.27,
+      "abs_fold_change": 12.175
+    },
+    {
+      "gene": "Gene_0037",
+      "fold_change": 11.943,
+      "tumor_mean": 21.35,
+      "normal_mean": 9.41,
+      "abs_fold_change": 11.943
+    },
+    {
+      "gene": "Gene_0026",
+      "fold_change": 11.902,
+      "tumor_mean": 21.63,
+      "normal_mean": 9.73,
+      "abs_fold_change": 11.902
+    },
+    {
+      "gene": "Gene_0034",
+      "fold_change": 11.792,
+      "tumor_mean": 21.71,
+      "normal_mean": 9.92,
+      "abs_fold_change": 11.792
+    },
+    {
+      "gene": "Gene_0022",
+      "fold_change": 11.774,
+      "tumor_mean": 21.52,
+      "normal_mean": 9.75,
+      "abs_fold_change": 11.774
+    },
+    {
+      "gene": "Gene_0012",
+      "fold_change": 11.698,
+      "tumor_mean": 21.34,
+      "normal_mean": 9.64,
+      "abs_fold_change": 11.698
+    },
+    {
+      "gene": "Gene_0038",
+      "fold_change": 11.672,
+      "tumor_mean": 21.14,
+      "normal_mean": 9.46,
+      "abs_fold_change": 11.672
+    },
+    {
+      "gene": "Gene_0024",
+      "fold_change": 11.583,
+      "tumor_mean": 21.07,
+      "normal_mean": 9.49,
+      "abs_fold_change": 11.583
+    },
+    {
+      "gene": "Gene_0007",
+      "fold_change": 11.574,
+      "tumor_mean": 21.29,
+      "normal_mean": 9.72,
+      "abs_fold_change": 11.574
+    },
+    {
+      "gene": "Gene_0015",
+      "fold_change": 11.43,
+      "tumor_mean": 21.56,
+      "normal_mean": 10.13,
+      "abs_fold_change": 11.43
+    }
+  ]
+}
