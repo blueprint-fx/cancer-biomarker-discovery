@@ -236,8 +236,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 📧 Contact
 
-For questions or collaborations, please reach out to your email.
+For questions or collaborations, please reach out to amenaghawonfreedom1@gmail.com
 
 ---
 
 Disclaimer: This is a demonstration project for educational and research purposes. The synthetic data and results are not for clinical use.
+
